@@ -118,7 +118,7 @@ JSON 2: {'products': ['apple', 'banana', 'orange'], 'prices': [1.2, 0.5, 0.75]}
 # 贡献
 欢迎贡献此库的改进和新功能。
 
-可以加入微信群反馈。
+可以加入企鹅群反馈。
 
 ![img.jpg](img.jpg)
 
